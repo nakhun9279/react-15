@@ -24,6 +24,3 @@ const ColorBox = () => {
 };
  
 export default ColorBox;
-
-
-export default ColorBox;
